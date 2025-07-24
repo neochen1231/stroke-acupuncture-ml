@@ -47,9 +47,3 @@ The output includes:
 - Selected original features (unscaled)
 - Predicted NIHSS at discharge
 
-
-## Contact
-
-For questions or collaborations, please contact:  
-****Name, *** Hospital
-@example.com(e-mail)
