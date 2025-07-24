@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 
-## how to use
+## How to Use
 
 ### 1. Prepare input data
 
