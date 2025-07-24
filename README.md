@@ -1,7 +1,7 @@
 
 # Stroke Recovery Prediction with Machine Learning
 
-This repository contains a machine learning model for predicting NIHSS score at discharge in stroke patients following acupuncture-based traditional therapy ("Xingnao Kaiqiao"). The model was trained using real-world clinical data collected from 552 patients over six years at *** Hospital.
+This repository contains a machine learning model for predicting NIHSS score at discharge in stroke patients following acupuncture-based traditional therapy ("Xingnao Kaiqiao"). The model was trained using real-world clinical data collected from 552 patients over six years at Chinese Medicine Hospital of Changji Hui Autonomous Prefecture.
 
 ## Project Overview
 
